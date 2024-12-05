@@ -35,7 +35,9 @@ export default function Home() {
             height={38}
             priority
           />
-         <p>Hello, from Timo! </p>
+         <p>Hello, from Timo!
+          This is my first try at vercel.
+         </p>
 
           <div className={styles.ctas}>
             <a

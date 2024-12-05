@@ -36,7 +36,7 @@ export default function Home() {
             priority
           />
          <p>Hello, from Timo!
-          This is my first try at vercel.
+          This is my first try at vercel!
          </p>
 
           <div className={styles.ctas}>
